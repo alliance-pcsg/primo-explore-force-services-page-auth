@@ -1,6 +1,6 @@
 {
   "name": "primo-explore-force-services-page-auth",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "force non-logged-in primo-explore users to authenticate when they are redirected to the services page.",
   "main": "index.js",
   "repository": {
